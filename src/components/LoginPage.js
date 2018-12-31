@@ -4,7 +4,7 @@ const LoginPage = () => {
     return(
     <div>
     <p>wow mahi 
-    Newest login Page.</p>
+    Newest login Page.user</p>
     </div>
     );
 };
